@@ -1,0 +1,23 @@
+{
+  "name": "vidtube",
+  "version": "1.0.0",
+  "description": "a project inspired by YouTube",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "harshith_ashvi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.2"
+  }
+}
